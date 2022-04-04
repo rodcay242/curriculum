@@ -1,0 +1,63 @@
+* {
+    
+    
+}
+
+/* Selectores por etiqueta */
+
+body {
+    font-family: Lato, Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1,h2,h3 {
+    font-family: "Lato";
+    font-weight: 900;
+}
+
+h1, h2 {
+    color: #2C637F;
+}
+
+h3 {
+    color: #5091B2;
+}
+
+h1 {
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1rem;
+    color: #5091B2;
+}
+
+/* Selectores por clase (class)*/
+
+.foto-perfil {
+    width: 20%;
+}
+
+.datos-personales {
+    list-style: none;
+    padding: 0;
+}
+.aclaracion {
+    font-size: 0.8rem;
+    color: #5091B2;
+    font-family: lato, sans-serif;
+    font-weight: 400;
+}
+
+.parrafo {
+    background: #eee;
+    margin: 20px;
+    padding: 20px;
+    max-width: 410px;
+    border: hidden;
+    border-radius: 15px;
+}
